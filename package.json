@@ -1,0 +1,9 @@
+{
+  "name": "p7-app",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node app.js",
+    "test": "node --test"
+  }
+}
